@@ -1,2 +1,2 @@
-# E--Commerce-Website-for-BITSians
+# E-Commerce-Website-for-BITSians
 Human Computer Interaction Project (BITS F364)
