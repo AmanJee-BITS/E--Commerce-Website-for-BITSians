@@ -1,7 +1,7 @@
 ## Lite - Liberos
 
 An e-commerce platform to connect university students with each other that belong to the same university. </br>
-* It follows User-Modeling theory along with Iterative design approach of HCI to deliver customer needs
+* It follows **User-Modeling theory** along with **Iterative design approach of HCI** to deliver customer needs
 * Include proper flow of website, size and placement of views, detailed display of products and dashboard feature
 
 ## Technologies Used:
