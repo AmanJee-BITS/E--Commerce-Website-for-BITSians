@@ -1,5 +1,6 @@
+## Lite - Liberos
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An e-commerce platform to connect university students with each other that belong to the same university.
 
 ## Available Scripts
 
