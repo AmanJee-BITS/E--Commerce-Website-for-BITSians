@@ -108,3 +108,7 @@ The commit message:
 - is kept short, while concisely explaining what the commit does.
 - is clear about what part of the code is affected -- often by prefixing with the name of the subsystem and a colon, like "server: ..." or "docs: ...".
 - is a complete sentence, ending with a period.
+
+## License
+
+Lite Liberos is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License).
