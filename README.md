@@ -20,11 +20,11 @@ An e-commerce platform to connect university students with each other that belon
 * Router
 
 ## Contributors:
-1. [Amanjee]()
-2. [Abhishek Dubey]()
+1. [Amanjee](https://github.com/AmanJee-BITS)
+2. [Abhishek Dubey](https://github.com/Du-bey)
 3. [Ayan Sharma]()
-4. [Ritwik Sharma]()
-5. [Nitin Gupta]()
+4. [Ritwik Sharma](https://github.com/ritrage)
+5. [Nitin Gupta](https://github.com/Nitin1098)
 
 ## Available Scripts
 
