@@ -111,4 +111,4 @@ The commit message:
 
 ## License
 
-Lite Liberos is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License).
+Lite - Liberos is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License).
