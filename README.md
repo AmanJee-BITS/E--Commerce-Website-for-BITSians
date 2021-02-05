@@ -6,9 +6,21 @@ An e-commerce platform to connect university students with each other that belon
 
 ## Technologies Used:
 * ReactJS
-* HTML + CSS
+* JSX
+* Material-UI
+* HTML5 
+* CSS 3
 * Bootstrap 4
 * JavaScript
+* jQuery
+* Router
+
+## Contributors:
+1. [Amanjee]()
+2. [Abhishek Dubey]()
+3. [Ayan Sharma]()
+4. [Ritwik Sharma]()
+5. [Nitin Gupta]()
 
 ## Available Scripts
 
